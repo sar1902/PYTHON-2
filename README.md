@@ -38,6 +38,25 @@ Q33.Sum even numbers
 
 
 
+# QUESTION 34 RESULT  
+Q34. Sum odd numbers
+
+
+![App Screenshot](https://i.ibb.co/gL5HrxGR/34.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
