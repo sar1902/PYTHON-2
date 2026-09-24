@@ -64,8 +64,6 @@ Q34. Sum odd numbers
 
 
 
-![App Screenshot](https://i.ibb.co/wFC48wxP/33.png)
-
 
 
 
