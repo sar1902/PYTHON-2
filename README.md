@@ -28,6 +28,37 @@ Q32. Count odd numbers from 1–N
 
 
 
+# QUESTION 33 RESULT  
+Q33.Sum even numbers
+
+
+
+![App Screenshot](https://i.ibb.co/wFC48wxP/33.png)
+
+
+
+
+
+
+
+
+
+
+
+![App Screenshot](https://i.ibb.co/wFC48wxP/33.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
