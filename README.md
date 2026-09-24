@@ -47,6 +47,25 @@ Q34. Sum odd numbers
 
 
 
+# QUESTION 35 RESULT  
+Q35. Find largest number from 1–N
+
+
+![App Screenshot](https://i.ibb.co/RkNwbH4Y/35.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
