@@ -19,6 +19,26 @@ Q31. Count even numbers from 1–N
 
 
 
+# QUESTION 32 RESULT  
+Q32. Count odd numbers from 1–N
+
+
+![App Screenshot](https://i.ibb.co/PZ9Jt7f2/32.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
