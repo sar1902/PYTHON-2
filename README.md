@@ -90,6 +90,24 @@ Q39. Check whether a number is prime
 
 
 
+# QUESTION 40 RESULT  
+Q40. Print prime numbers from 1–N
+
+
+![App Screenshot](https://i.ibb.co/x8mFKPKj/40.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
