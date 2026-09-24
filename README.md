@@ -82,6 +82,24 @@ Q38.Print factors of a number
 
 
 
+# QUESTION 39 RESULT  
+Q39. Check whether a number is prime
+
+
+![App Screenshot](https://i.ibb.co/SD5x39r0/39.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
