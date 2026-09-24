@@ -74,6 +74,25 @@ Q37. Count numbers divisible by 3
 
 
 
+# QUESTION 38 RESULT  
+Q38.Print factors of a number
+
+
+![App Screenshot](https://i.ibb.co/KxvwGKVF/38.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
