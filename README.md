@@ -65,6 +65,25 @@ Q36. Find smallest number from 1–N
 
 
 
+# QUESTION 37 RESULT  
+Q37. Count numbers divisible by 3
+
+
+![App Screenshot](https://i.ibb.co/mVp60h8R/37.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
