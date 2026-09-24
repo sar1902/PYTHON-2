@@ -56,6 +56,25 @@ Q35. Find largest number from 1–N
 
 
 
+# QUESTION 36 RESULT  
+Q36. Find smallest number from 1–N
+
+
+![App Screenshot](https://i.ibb.co/rKHpkYNZ/36.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
